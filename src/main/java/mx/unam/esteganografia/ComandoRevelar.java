@@ -12,8 +12,7 @@ public class ComandoRevelar implements Comando {
     @Override
     public void ejecutar() {
         System.out.println("Revelando texto...");
-        // Aquí iría la lógica para revelar el texto oculto en la imagen.
-        // Ejemplo: UtilidadEsteganografia.revelarTextoDeImagen(archivoImagen, archivoTextoSalida);
+        UtilidadEsteganografia.revelarTextoDeImagen(archivoImagen, archivoTextoSalida);
         System.out.println("Texto revelado y guardado en " + archivoTextoSalida);
     }
 }
