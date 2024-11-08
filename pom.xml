@@ -12,6 +12,16 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <!-- Dependencia para JUnit, necesaria para ejecutar las pruebas -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
     <build>
         <finalName>esteganografia</finalName> <!-- Nombre final del JAR sin versión -->
         
@@ -43,3 +53,4 @@
         </plugins>
     </build>
 </project>
+
