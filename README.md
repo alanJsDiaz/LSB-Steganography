@@ -92,5 +92,3 @@ mvn test
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ---
-
-Este README debería proporcionar una buena guía para cualquiera que quiera entender y ejecutar el proyecto. ¿Te gustaría agregar o modificar algo?
