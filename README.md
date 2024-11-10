@@ -84,11 +84,7 @@ mvn test
 
 ## Créditos
 
--Alan Joshep Diaz Quijada
--Diego Hazael Vega Alonso
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+- Alan Joshep Diaz Quijada
+- Diego Hazael Vega Alonso
 
 ---
